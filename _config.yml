@@ -1,6 +1,6 @@
 title: Andreys Test Blog
 author:
-  name: AndreysBogTest
+  name: AndreysBlogTest
   email: blog@dmitriev.de
 description: > # this means to ignore newlines until "show_excerpts:"
   Just Jekyll test. You can edit this line in _config.yml.
@@ -57,3 +57,5 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+baseurl: /andreysblogtest
