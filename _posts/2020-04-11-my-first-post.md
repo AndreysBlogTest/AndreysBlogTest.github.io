@@ -1,6 +1,7 @@
 ---
 layout: post
 title: This is my first post
+permalink: /2020-04-11-my-first-post/
 categories: [Start, Test]
 published: true
 ---
