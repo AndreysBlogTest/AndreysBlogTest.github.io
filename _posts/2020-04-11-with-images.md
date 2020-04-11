@@ -5,12 +5,17 @@ permalink: /2020-04-11-my-first-post-images/
 categories:
   - Start
   - Image
-tags:
-  - lorem ipsum test pass
+tags: lorem ipsum test start
 published: true
+typora-copy-images-to: ..\_media
 ---
 
 Lorem ipsum dolor sit amet.
+
+one more attempt:
+
+![image-20200411140151846](../_media/image-20200411140151846.png)
+
 Test
 
 image
