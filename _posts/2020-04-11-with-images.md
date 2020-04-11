@@ -7,10 +7,14 @@ categories:
   - Image
 tags: lorem ipsum test start
 published: true
-typora-copy-images-to: ..\_media
+typora-copy-images-to: ..\assets\images
 ---
 
 Lorem ipsum dolor sit amet.
+
+and one more
+
+![image-20200411141738284](../assets/images/image-20200411141738284.png)
 
 one more attempt:
 
