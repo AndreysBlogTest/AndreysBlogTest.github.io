@@ -34,9 +34,18 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  
+  <!--
 <small>
     {% for tag in page.tags %}
     <a href="/tags/{{ tag }}/">{{ tag }}</a>
+    {% endfor %}
+</small>
+-->
+  
+<small>
+    {% for tag in page.tags %}
+    <a>{{ tag }}</a>
     {% endfor %}
 </small>
 
