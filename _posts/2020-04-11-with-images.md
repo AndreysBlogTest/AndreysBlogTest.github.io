@@ -5,7 +5,7 @@ permalink: /2020-04-11-my-first-post-images/
 categories:
   - Start
   - Image
-tags: lorem ipsum test start
+tags: [lorem, ipsum, test, start]
 published: true
 typora-copy-images-to: ..\assets\images
 ---
