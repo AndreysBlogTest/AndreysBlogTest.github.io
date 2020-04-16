@@ -41,13 +41,15 @@ layout: default
     <a href="/tags/{{ tag }}/">{{ tag }}</a>
     {% endfor %}
 </small>
--->
-  
+
 <small>
     {% for tag in page.tags %}
     <a>{{ tag }}</a>
     {% endfor %}
 </small>
+
+-->
+  
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
