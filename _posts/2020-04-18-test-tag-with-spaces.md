@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is the tes tags and categories with spaces
+title: This is the tes tags and categories with spaces v2
 categories: [Start, Test, Hello World]
 tags: [lorem ipsum, test, pass]
 published: true
