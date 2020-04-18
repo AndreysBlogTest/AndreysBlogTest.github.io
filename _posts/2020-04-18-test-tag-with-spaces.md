@@ -1,7 +1,6 @@
 ---
 layout: post
-title: This is the tes tags and categories  with spaces
-permalink: /2020-04-11-my-first-post/
+title: This is the tes tags and categories with spaces
 categories: [Start, Test, Hello World]
 tags: [lorem ipsum, test, pass]
 published: true
